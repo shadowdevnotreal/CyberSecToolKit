@@ -4,7 +4,7 @@
 </p>
 
 
-## Support FOSS future development - Simping for donations here 👇
+## Support FOSS future development 👇- Simping for donations here:
 
 <a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Book" style="height: 40px !important;width: 145px !important;" ></a>
 
